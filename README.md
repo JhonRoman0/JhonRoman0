@@ -9,8 +9,8 @@
   <a href="mailto:jhonromanquito@gmail.com">
     <img src="https://img.shields.io/badge/Email-jhonromanquito@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/jhoncarlosromanquito">
-    <img src="www.linkedin.com/in/jhon-carlos-roman-quito-512bb5380" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/jhon-carlos-roman-quito-512bb5380" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 Soy **Desarrollador de Software** enfocado en el diseño, arquitectura e implementación de aplicaciones web empresariales y sistemas de gestión. Mi enfoque combina un desarrollo backend sólido y bien estructurado con interfaces funcionales centradas en el usuario.
 
 - 💻 **Desarrollo Full Stack:** Experiencia diseñando sistemas completos desde el levantamiento de requerimientos y modelado de bases de datos hasta el despliegue.
-- ⚙️ **Arquitectura & Calidad:** Aplicación de patrones como **MVC**, desarrollo de APIs REST, pruebas funcionales y optimización de código existente.
-- 🏛️ **Experiencia en el sector público y proyectos:** Trayectoria desarrollando soluciones a medida y colaborando en el área tecnológica del **Ministerio Público (Chiclayo)**.
-- 📊 **Visión analítica:** Formación continua en **Ciencia de Datos** para integrar análisis y toma de decisiones basadas en datos dentro del desarrollo de software.
+- ⚙️ **Arquitectura & Calidad:** Aplicación de patrones como **MVC**[cite: 3], desarrollo de APIs REST con **Spring Boot**, pruebas funcionales y optimización de código existente.
+- 🏛️ **Experiencia en el sector público y proyectos:** Trayectoria desarrollando soluciones a medida y colaborando en el área tecnológica del **Ministerio Público (Chiclayo)**[cite: 3].
+- 📊 **Visión analítica:** Formación continua en **Ciencia de Datos** para integrar análisis y toma de decisiones basadas en datos dentro del desarrollo de software[cite: 3].
 
 ---
 
@@ -31,8 +31,12 @@ Soy **Desarrollador de Software** enfocado en el diseño, arquitectura e impleme
 
 #### Lenguajes & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Frontend & Web
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -49,7 +53,7 @@ Soy **Desarrollador de Software** enfocado en el diseño, arquitectura e impleme
 
 ### 📌 Proyectos Destacados
 
-* 🏫 **[Sistema de Gestión y Asistencia Escolar](https://github.com/JhonRoman0/asistenciaescolar)** — Arquitectura separada en [Backend (Java)](https://github.com/JhonRoman0/backend-escolar-) y [Frontend (TypeScript)](https://github.com/JhonRoman0/front-escolar) para el control automatizado de asistencia y administración académica[cite: 1].
+* 🏫 **[Sistema de Gestión y Asistencia Escolar](https://github.com/JhonRoman0/asistenciaescolar)** — Arquitectura separada en [Backend (Java / Spring Boot)](https://github.com/JhonRoman0/backend-escolar-) y [Frontend (TypeScript)](https://github.com/JhonRoman0/front-escolar) con base de datos MySQL para el control automatizado de asistencia y administración académica.
 * 🌐 **[Aplicación Web Integradora](https://github.com/JhonRoman0/mi-app-web-integrador)** — Plataforma web desarrollada bajo arquitectura modular en JavaScript[cite: 1].
 
 ---
