@@ -59,7 +59,3 @@ Soy **Desarrollador de Software** enfocado en el diseño, arquitectura e impleme
 
 ### 📈 Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonRoman0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonRoman0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
