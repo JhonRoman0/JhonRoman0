@@ -21,9 +21,8 @@
 Soy **Desarrollador de Software** enfocado en el diseño, arquitectura e implementación de aplicaciones web empresariales y sistemas de gestión. Mi enfoque combina un desarrollo backend sólido y bien estructurado con interfaces funcionales centradas en el usuario.
 
 - 💻 **Desarrollo Full Stack:** Experiencia diseñando sistemas completos desde el levantamiento de requerimientos y modelado de bases de datos hasta el despliegue.
-- ⚙️ **Arquitectura & Calidad:** Aplicación de patrones como **MVC**[cite: 3], desarrollo de APIs REST con **Spring Boot**, pruebas funcionales y optimización de código existente.
-- 🏛️ **Experiencia en el sector público y proyectos:** Trayectoria desarrollando soluciones a medida y colaborando en el área tecnológica del **Ministerio Público (Chiclayo)**[cite: 3].
-- 📊 **Visión analítica:** Formación continua en **Ciencia de Datos** para integrar análisis y toma de decisiones basadas en datos dentro del desarrollo de software[cite: 3].
+- ⚙️ **Arquitectura & Calidad:** Aplicación de patrones como **MVC**, desarrollo de APIs REST con **Spring Boot**, pruebas funcionales y optimización de código existente.
+- 📊 **Visión analítica:** Formación continua en **Ciencia de Datos** para integrar análisis y toma de decisiones basadas en datos dentro del desarrollo de software.
 
 ---
 
