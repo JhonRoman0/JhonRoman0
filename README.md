@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-jhonromanquito@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/jhoncarlosromanquito">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="www.linkedin.com/in/jhon-carlos-roman-quito-512bb5380" alt="LinkedIn" />
   </a>
 </p>
 
